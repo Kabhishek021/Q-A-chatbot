@@ -1,5 +1,6 @@
 # Chatbot
 ![image](https://github.com/Kabhishek021/Q-A-chatbot/blob/main/chatbot.png)
+
 Here's a clean and professional `README.md` document for your LangChain + Ollama + Streamlit demo project:
 
 ---
